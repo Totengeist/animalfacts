@@ -149,3 +149,9 @@ date = "2024-11-19"
 animal = "Cow"
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/800px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
 fact = "A study has found that cows have best friends. When they are placed together, they exhibited lower heart rates and cortisol ('stress hormone') levels. These levels increasted a lot when the cows were then separated. Cows also enjoy playing games, similarly to dogs and cats."
+
+[[fact]]
+date = "2024-11-30"
+animal = "Northern chuckwalla"
+image = "https://upload.wikimedia.org/wikipedia/commons/5/52/Sauromalus_ater_Phoenix.jpg"
+fact = "The northern chuckwalla inhabits the Sonoran and Mojave Deserts. Females lay eggs in an underground nest and leave their young after they hatch. The young are independent at that point. Northern chuckwallas generally live 10 years or more, given suitable conditions, limited predation, and adequate food availability. The average lifespan in the wild is estimated to be about 15 years. The oldest known chuckwalla in the wild was 30 years old, while the oldest in captivity lived to 65 years old."
