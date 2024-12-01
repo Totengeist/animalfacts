@@ -38,22 +38,20 @@ feature = [
 ]
 
 [[feature]]
-date = "2024-12-01"
+date = "2024-12-02"
 animal = "Anna's Hummingbird"
 latin = "Calypte anna"
 image = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Anna%27s_hummingbird.jpg"
 feature = [
-"Anna's hummingbird (Calypte anna) is a North American species of hummingbird. Native to the North American West coast, they bred only in Baja and Southern California during the 20th century. The transplanting of exotic ornamental plants in residential areas throughout the Pacific coast and inland deserts provided expanded nectar and nesting sites, allowing the species to expand its breeding range.",
+	"Anna's hummingbird is a North American species of hummingbird. Native to the west coast, they bred only in Baja and Southern California during the 20th century. The transplanting of exotic ornamental plants in residential areas throughout the Pacific coast and inland deserts provided expanded nectar and nesting sites, allowing the species to expand its breeding range.",
 
-"The male is the only North American hummingbird species with a red crown. The color and iridescence of this crown depends on the bird's protein intake. Females and juvenile males have a dull green crown, a grey throat with or without some red iridescence, a grey chest and belly, and a dark, rounded tail with white tips on the outer feathers.",
+	"The male is the only North American hummingbird species with a red crown. The color and iridescence of this crown depends on the bird's protein intake. Females and juvenile males have a dull green crown, a grey throat with or without some red iridescence, a grey chest and belly, and a dark, rounded tail with white tips on the outer feathers.",
 
-"Birds with inadequate stores of body fat or insufficient plumage are able to survive periods of subfreezing weather by lowering their metabolic rate and entering a state of torpor.",
+	"Birds with inadequate stores of body fat or insufficient plumage are able to survive periods of subfreezing weather by lowering their metabolic rate and entering a state of torpor. They assist in pollinating plants via an electrostatic charge they build during flight. This causes them to pick up pollen as they feed on a flower's nectar and deposit it on another flower.",
 
-"They assist in pollinating plants via an electrostatic charge they build during flight. This causes them to pick up pollen as they feed on a flower's nectar and deposit it on another flower.",
+	"It is one of the few hummingbirds that uses song during courtship. They also fly high into the sky and then dive near females to attract their attention. They occasionally hybridize with other hummingbird species and those offspring are often mistaken for new species.",
 
-"It is one of the few hummingbirds [that uses song](https://en.m.wikipedia.org/wiki/File:Calypte_anna_-_Anna%27s_Hummingbird_-_XC109651.ogg) during courtship. They also fly high into the sky and then dive near females to attract their attention. They occasionally hybridize with other hummingbird species and those offspring are often mistaken for new species.",
+	"It was named after Anna Masséna, Duchess of Rivoli. Masséna was married to an ornithologist and senior lady-in-waiting to Eugénie de Montijo, Empress of France and wife of Napoleon III. A colleague of her amateur ornithologist husband, naturalist René Lesson, named the bird after her. Lesson published several books on humming birds, and one on birds in general. He also named and described many new amphibian species and was the first person to see birds of paradise in the wild.",
 
-"It was named after Anna Masséna, Duchess of Rivoli. Masséna was married to an ornithologist and was senior lady-in-waiting) to [Eugénie de Montijo](https://en.m.wikipedia.org/wiki/Empress_Eug%C3%A9nie_Surrounded_by_her_Ladies_in_Waiting) Empress of France and wife of Napoleon III. A colleague of Masséna's amateur ornithologist husband, naturalist René Lesson, named the bird after her. Lesson published several books on humming birds, and one on birds in general. He also named and described many new amphibian species and was the first person to see birds of paradise in the wild.",
-
-"Anna's hummingbirds are the official bird of the city of Vancouver, BC, and are non-migrating residents of Seattle, WA."
+	"Anna's hummingbirds are the official bird of the city of Vancouver, BC, and are non-migrating residents of Seattle, WA."
 ]
