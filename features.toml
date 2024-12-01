@@ -38,7 +38,7 @@ feature = [
 ]
 
 [[feature]]
-date = "2024-12-01"
+date = "2024-12-02"
 animal = "Anna's Hummingbird"
 latin = "Calypte anna"
 image = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Anna%27s_hummingbird.jpg"
