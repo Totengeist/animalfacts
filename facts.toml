@@ -148,7 +148,7 @@ fact = "Aphids feed by piercing the phloem tissue of the host plant and sucking 
 date = "2024-11-19"
 animal = "Cow"
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/800px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg"
-fact = "A study has found that cows have best friends. When they are placed together, they exhibited lower heart rates and cortisol ('stress hormone') levels. These levels increasted a lot when the cows were then separated. Cows also enjoy playing games, similarly to dogs and cats."
+fact = "A study has found that cows have best friends. They exhibit lower heart rates and cortisol ('stress hormone') levels when placed together. These levels increased a lot when the cows were then separated. Cows also enjoy playing games, similarly to dogs and cats."
 
 [[fact]]
 date = "2024-11-30"
@@ -160,4 +160,22 @@ fact = "The northern chuckwalla inhabits the Sonoran and Mojave Deserts. Females
 date = "2024-12-01"
 animal = "Tripartite sweat bee"
 image = "https://bugguide.net/images/cache/EZQ/L4Z/EZQL4Z0LUZ4HYHEH1HGHAH2H9ZXLVZILZR8HVHEHBZIL3H6HHR4LHR7LNZWHLR8LYHUHDHMH2ZLLWZPHRR6HZR6H.jpg"
-fact = "The tripartite sweat bee is common in the western United States, especially, the southwestern coast. It builds nests in burrows under the soil consisting of four to 200 bees. Unlike most bees, some tripartite workers are capable of mating and reproducing. Only females have stingers, but they are non-aggressive, stinging only for defense. Sweat bees are attracted to human perspiration, likely for the salts and proteins."
+fact = "The tripartite sweat bee is common in the western United States, especially the southwestern coast. It builds nests in burrows under the soil, consisting of four to 200 bees. Unlike most bees, some tripartite workers are capable of mating and reproducing. Only females have stingers, but they are non-aggressive, stinging only for defense. Sweat bees are attracted to human perspiration, likely for the salts and proteins."
+
+[[fact]]
+date = "2025-05-16"
+animal = "California ground squirrel"
+image = "https://inaturalist-open-data.s3.amazonaws.com/photos/1512423/large.jpg"
+fact = "The California ground squirrel has unique ways of hiding from snakes. It can heat its tail by increasing blood flow to it. The snakes can see the heat with their infrared-detecting pit organ and may be distracted or deterred by it. It also uses the tail to alert other nearby squirrels to danger. These squirrels can hide from rattlesnakes by chewing on shed skin, then licking their fur to mask their scent."
+
+[[fact]]
+date = "2025-05-17"
+anima = "Torrey pine beetle"
+image = "http://www.monarthrum.info/beetle_images/pix/2214_pityophthorus_carmeli_f_frontal.jpg"
+fact = "The Torrey pine beetle has a specialized relationship with the Torrey pine, a rare and endangered tree species found only in Torrey Pines State Natural Reserve and Santa Rosa Island. The beetle burrows into the bark to lay its eggs, and the larvae feed on the tree's inner bark, disrupting its nutrient flow. The beetle population can reach overwhelming numbers. From 1988 to 1992, 12% of the pines in Torrey Pines State National Reserve were lost due to a population explosion in a similar beetle species. The tree has a chemical defense against the beetles, but may be unable to produce it sufficiently during droughts."
+
+[[fact]]
+date = "2025-05-18"
+anima = "San Diego alligator lizard"
+image = "https://inaturalist-open-data.s3.amazonaws.com/photos/6776371/medium.jpg"
+fact = "This lizard is only found in the environments around San Diego County. It defends itself from predators by intimidation, opening its mouth to show its teeth. If that's not enough, it bites the attacker's nose and latches on to make eating it impossible. It then defecated on the attacker to try to get it to retreat."
