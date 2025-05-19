@@ -185,3 +185,39 @@ date = "2025-05-19"
 animal = "California gray fox"
 image = "https://friendsofgriffithpark.org/wp-content/uploads/2018/12/WESTERNGRAYFOX.jpg"
 fact = "The California gray fox is an exceptional tree climber, capable of scaling vertical trunks and jumping between branches like a cat. Unlike most canids, gray foxes have strong, hooked claws and rotating forearms. These adaptations allow it to forage, rest, or escape predators high in the trees. It’s one of the only North American canids with this climbing ability."
+
+[[fact]]
+date = "2025-05-20"
+animal = "San Diego pocket mouse"
+image = "https://inaturalist-open-data.s3.amazonaws.com/photos/235528978/large.jpeg"
+fact = "The San Diego pocket mouse has a highly developed sense of smell that allows it to navigate its environment. It can smell seeds, insects, and other food sources underground or beneath the surface. It can mark its surroundings with scents to communicate with other mice. Most importantly, it can use this sense of smell to find water by detecting moisture in the air, such as dew on plants or damp soil."
+
+[[fact]]
+date = "2025-05-21"
+animal = "California kingsnake"
+image = "https://static.inaturalist.org/photos/64677046/medium.jpeg"
+fact = "The California kingsnake is a nonvenomous constrictor snake named for its tendency to hunt and eat other snakes. It has a natural resistance to the venom of rattlesnakes and has the strongest constriction proportionate to its body size. This allows it to hunt reptilian prey that needs much less oxygen than mammalian prey."
+
+[[fact]]
+date = "2025-05-22"
+animal = "San Diego horned lizard"
+image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Phrynosoma_blainvillii_131129535.jpg/960px-Phrynosoma_blainvillii_131129535.jpg"
+fact = "The San Diego horned lizard defends itself from predators by blending into it surroundings, hiding, or hissing, biting or using its horns. If all this fails, it can shoot blood from its eyes to startle or intimidate predators. It does this by increasing the blood pressure to the blood vessels around its eyes, then forces the blood out through tiny sinuses near its eyes into a spray aimed at the predator's face."
+
+[[fact]]
+date = "2025-05-23"
+animal = "Dulzura kangaroo rat (or San Diego rat)"
+image = "https://inaturalist-open-data.s3.amazonaws.com/photos/198789303/large.jpeg"
+fact = "The kangaroo rat moves in a series of hops, similar to kangaroos, using it's tail for balance and using it's front legs primarily for digging. They have special adaptations in their sculls which give them some of the most sensitive hearing in the animal kingdom. This allows them to detect predators from a distance and react swiftly to evade danger."
+
+[[fact]]
+date = "2025-05-24"
+animal = "Arrow goby"
+image = "https://inaturalist-open-data.s3.amazonaws.com/photos/505910714/large.jpg"
+fact = "The Arrow goby is a small ray-finned fish that is a protogynous hermaphrodite. Young adult females will eventually change sex to male as they become older. They will use their silvery underbelly to warn others of predators by arching their backs and rolling onto their sides. They will also bring large food items to crustaceans to be ripped into smaller pieces."
+
+[[fact]]
+date = "2025-05-25"
+animal = "California mantis"
+image = "https://static.inaturalist.org/photos/10859227/medium.jpg"
+fact = "The California mantis has specialized sensors near their legs that allow the mantis to lose its head and still function. This adaptation is used during mating, as females may decapitate males. Like other mantises, they eat virtually any other insect that's small enough to be eaten, including other members of it's own species."
